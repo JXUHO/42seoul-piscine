@@ -1,0 +1,5 @@
+Credentials cache: API:D355BF6C-72B4-4A0D-8995-209BFB30316D
+        Principal: juholee@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb 18 13:11:37 2021  Feb 18 23:11:37 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
